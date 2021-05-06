@@ -3,7 +3,7 @@ import indexImg from "../assets/img/index-img.png";
 
 export default function Home() {
     return <>
-        
+    
         <div class="container index">
             <div class="index-content">
                 <div class="box-text-index">
